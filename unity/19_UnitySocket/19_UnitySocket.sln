@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_UnitySocket.CSharp", "19_UnitySocket.CSharp.csproj", "{DB0DF5A3-3BB4-62E8-A19F-8CCDF2886267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_UnitySocket.CSharp.Editor", "19_UnitySocket.CSharp.Editor.csproj", "{68709F49-C869-7E48-55E4-D8E6AAA780AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0DF5A3-3BB4-62E8-A19F-8CCDF2886267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0DF5A3-3BB4-62E8-A19F-8CCDF2886267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0DF5A3-3BB4-62E8-A19F-8CCDF2886267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0DF5A3-3BB4-62E8-A19F-8CCDF2886267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68709F49-C869-7E48-55E4-D8E6AAA780AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68709F49-C869-7E48-55E4-D8E6AAA780AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68709F49-C869-7E48-55E4-D8E6AAA780AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68709F49-C869-7E48-55E4-D8E6AAA780AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
